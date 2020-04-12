@@ -1,11 +1,11 @@
 {
     "title": {
-        "ja": "みんなでテイクアウトMAP <高槻版>",
-        "en": "Takeout MAP with everyone <Takatsuki Ver>"
+        "ja": "みんなでテイクアウトMAP <草津版>",
+        "en": "Takeout MAP with everyone <Kusatsu Ver>"
     },
     "owner": {
-        "ja": "CoderDojo高槻について",
-        "en": "about CoderDojo Takatsuki"
+        "ja": "Code for Kusatsuについて",
+        "en": "about Code for Kusatsu"
     },
     "data_edit": {
         "ja": "店舗編集",
@@ -24,11 +24,11 @@
         "en": "(for smartphone)simple editing tool"
     },
     "outdoor_seating_yes": {
-        "ja": "テラスあり",
+        "ja": "あり",
         "en": "yes"
     },
     "outdoor_seating_no": {
-        "ja": "テラスなし",
+        "ja": "なし",
         "en": "no"
     },
     "modal_title": {
