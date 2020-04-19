@@ -7,6 +7,10 @@
         "ja": "Code for Kusatsuについて",
         "en": "about Code for Kusatsu"
     },
+    "openstreetmap": {
+        "ja": "データ元のOpenStreetMapについて",
+        "en": "About the data source OpenStreetMap"
+    },
     "data_edit": {
         "ja": "店舗編集",
         "en": "EDIT"
