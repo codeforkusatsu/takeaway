@@ -6,7 +6,8 @@
             135.96162
         ],
         "DefaultZoom": 15,
-        "MinZoomLevel": 15,
+        "IconViewZoom": 15,
+        "TextViewZoom": 17,
         "attribution": "<a href=\"https://www.maptiler.com/copyright/\" target=\"_blank\">© MapTiler</a> <a href=\"https://www.openstreetmap.org/copyright\" target=\"_blank\">© OpenStreetMap contributors</a>",
         "style": "https://api.maptiler.com/maps/1acb6b2d-48fb-4650-bfef-d4be987c9e77/style.json?key=9KvmxntuuEbaUvk4jWy3"
     },
@@ -65,7 +66,9 @@
                 "node[\"shop\"=\"bakery\"]",
                 "way[\"shop\"=\"bakery\"]",
                 "node[\"shop\"=\"deli\"]",
-                "way[\"shop\"=\"deli\"]"
+                "way[\"shop\"=\"deli\"]",
+                "node[\"shop\"=\"alcohol\"]",
+                "way[\"shop\"=\"alcohol\"]"
             ],
             "list": true,
             "zoom": 15,

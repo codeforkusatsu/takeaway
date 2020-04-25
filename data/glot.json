@@ -28,16 +28,24 @@
         "en": "(for smartphone)simple editing tool"
     },
     "outdoor_seating_yes": {
-        "ja": "あり",
-        "en": "yes"
+        "ja": "(テラスあり)",
+        "en": "(outdoor seats)"
     },
     "outdoor_seating_no": {
+        "ja": "(テラスなし)",
+        "en": "(no outdoor seats)"
+    },
+    "takeaway_yes": {
+        "ja": "あり",
+        "en": "no"
+    },
+    "takeaway_no": {
         "ja": "なし",
         "en": "no"
     },
     "modal_title": {
-        "ja": "テイクアウト詳細情報",
-        "en": "Detailed information"
+        "ja": "詳細情報(更新:",
+        "en": "Detailed"
     },
     "modal_close": {
         "ja": "閉じる",
